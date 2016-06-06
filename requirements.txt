@@ -1,0 +1,6 @@
+dj-database-url
+django-autoconfig
+djshorty
+gunicorn
+psycopg2
+whitenoise

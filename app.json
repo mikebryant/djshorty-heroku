@@ -1,0 +1,8 @@
+{
+  "name": "Shorty on Heroku example",
+  "description": "A sample deployment of shorty.",
+  "image": "heroku/python",
+  "repository": "https://github.com/mikebryant/djshorty-heroku",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
