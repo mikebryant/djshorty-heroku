@@ -4,13 +4,5 @@
   "image": "heroku/python",
   "repository": "https://github.com/mikebryant/djshorty-heroku",
   "keywords": ["python", "django" ],
-  "addons": [ "heroku-postgresql" ],
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-python"
-    },
-    {
-      "url": "https://github.com/clutter/heroku-buildpack-django-migrate"
-    }
-  ]
+  "addons": [ "heroku-postgresql" ]
 }
